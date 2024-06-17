@@ -25,7 +25,7 @@
 
 ### My GitHub Contributions
 
-![](https://yijiaquan.github.io/yijiaquan/github-contribution-grid-snake.svg)
+
 
 ### My GitHub Stats
 
@@ -37,8 +37,4 @@
   <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
 </div>
 
-<!--END_SECTION:waka-->
-
-### My GitHub Contributions
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--END_SECTION:yijiaquan-->
