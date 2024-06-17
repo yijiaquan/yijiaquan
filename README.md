@@ -21,7 +21,7 @@
 
 <div align="left">
   <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yijiaquan&show_icons=true&theme=cobalt" /> </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiaquan&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiaquan&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> </div>
 </div>
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=yijiaquan&theme=dracula)
