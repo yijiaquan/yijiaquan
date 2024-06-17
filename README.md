@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://yijiaquan.github.io/docs">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;Coding Always！&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！; Coding Always！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,14 +25,13 @@
 
 ### My GitHub Contributions
 
-
+![](https://github-readme-activity-graph.cyclic.app/graph?username=yijiaquan&theme=dracula)
 
 ### My GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yijiaquan&show_icons=true" /> 
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yijiaquan&show_icons=true&theme=transparent" /> </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiaquan&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
-
 
 <!--END_SECTION:yijiaquan-->
