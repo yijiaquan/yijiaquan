@@ -30,8 +30,9 @@
 ### My GitHub Stats
 
 <div align="left">
-  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yijiaquan&show_icons=true&theme=transparent" /> </div>
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yijiaquan&show_icons=true&theme=cobalt" /> </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiaquan&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yijiaquan)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--END_SECTION:yijiaquan-->
