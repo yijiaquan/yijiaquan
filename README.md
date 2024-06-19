@@ -26,7 +26,7 @@ Hi, I'm JiaQuan Yi 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Besid
 
 ### 🏊 Current Status Quo
 
-- 👨🏻‍💻 I’m currently working on [AI](https://github.com/kubernetes/kubernetes)。
+- 👨🏻‍💻 I’m currently working on [mindspore](https://gitee.com/mindspore/mindspore)/[mindformers](https://gitee.com/mindspore/mindformers)。
 - 🌱 I’m currently learning c、c++、java、python。
 - 💻 I love writing code and learn anythings about it
 - 💬 Ask me about anything, I would like to answer.
@@ -87,7 +87,7 @@ Hi, I'm JiaQuan Yi 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Besid
 <details open>
 <summary>点击展开 ...</summary>
 
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+<img align='right' src="./assets/bg.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
 - 🐻 [Spring AI 初识](https://yijiaquan.github.io/docs/#/AI/Spring_AI_%E5%88%9D%E8%AF%86) 
