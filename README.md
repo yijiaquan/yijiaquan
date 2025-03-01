@@ -1,4 +1,4 @@
-### Hey <img src="./assets/242918533-97471f55-148e-41af-a79c-63fcda189a81.gif" width="28px">，I'm JiaQuan Yi
+### Hey <img src="./assets/242918533-97471f55-148e-41af-a79c-63fcda189a81.gif" width="28px" style="width: 28px">，I'm JiaQuan Yi
 
 ---
 
