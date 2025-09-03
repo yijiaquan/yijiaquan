@@ -5,7 +5,6 @@
 - ![yijiaquan](https://komarev.com/ghpvc/?username=yijiaquan) [![](https://visitor-badge.laobi.icu/badge?page_id=yijiaquan.yijiaquan)](https://visitor-badge.laobi.icu/badge?page_id=yijiaquan.yijiaquan)
 [![](https://img.shields.io/github/stars/yijiaquan?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=yijiaquan&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/yijiaquan?color=27da6b&logo=Handshake)](https://github.com/yijiaquan?tab=followers)
-
 <br />
 
 Hi, I'm JiaQuan Yi 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and playing table tennis 🏓.
@@ -14,7 +13,7 @@ Hi, I'm JiaQuan Yi 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Besid
 
 ### 🏊 Current Status Quo
 
-- 👨🏻‍💻 I’m currently working on [mindspore](https://gitee.com/mindspore/mindspore)/[mindformers](https://gitee.com/mindspore/mindformers)。
+- 👨🏻‍💻 I’m currently working on AI、[mindspore](https://gitee.com/mindspore/mindspore)/[mindformers](https://gitee.com/mindspore/mindformers)。
 - 🌱 I’m currently learning c、c++、java、python。
 - 💻 I love writing code and learn anythings about it
 - 💬 Ask me about anything, I would like to answer.
@@ -66,21 +65,5 @@ Hi, I'm JiaQuan Yi 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Besid
 
 [![](https://activity-graph.herokuapp.com/graph?username=yijiaquan&theme=github)](https://activity-graph.herokuapp.com/graph?username=yijiaquan&theme=github)
 </div>
-
----
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<img align='right' src="./assets/bg.gif" width="330" />
-
-<!-- BLOG-POST-LIST:START -->
-- 🐻 [Spring AI 初识](https://yijiaquan.github.io/docs/#/AI/Spring_AI_%E5%88%9D%E8%AF%86) 
-<!-- BLOG-POST-LIST:END -->
-
-更多内容请关注：[coding学习博客](https://yijiaquan.github.io/docs)
 
 </details>
