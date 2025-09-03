@@ -11,7 +11,7 @@ Hi, I'm JiaQuan Yi 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Besid
 
 ---
 
-### 🏊 Current Status Quo
+### 🏊 Current Status
 
 - 👨🏻‍💻 I’m currently working on AI、[mindspore](https://gitee.com/mindspore/mindspore)/[mindformers](https://gitee.com/mindspore/mindformers)。
 - 🌱 I’m currently learning c、c++、java、python。
@@ -53,17 +53,6 @@ Hi, I'm JiaQuan Yi 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Besid
 
 ---
 
-### 🏆 My Github Stats
-<details open>
-<summary>点击展开 ...</summary>
+### 🏆 Github Stats
 
-<div align="center">
-
-[![yijiaquan's github stats](https://github-readme-stats.vercel.app/api?username=yijiaquan&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=yijiaquan&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=yijiaquan&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=yijiaquan&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
-[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/yijiaquan/yijiaquan/main/assets/github-contribution-grid-snake.svg)
-
-[![](https://activity-graph.herokuapp.com/graph?username=yijiaquan&theme=github)](https://activity-graph.herokuapp.com/graph?username=yijiaquan&theme=github)
-</div>
-
-</details>
+![yijiaquan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yijiaquan&show_icons=true&theme=ambient_gradient&custom_title=yijiaquan%27s%20GitHub%20Stats)
